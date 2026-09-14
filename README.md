@@ -22,6 +22,4 @@ Use the search bar to filter entries, or pick a category from the dropdown. Clic
 
 ## License
 Feel free to use and modify for personal or educational purposes.
-
-#Download
 You can download the Working App Version 1.0 from the "Download" button in the releases Tab.
