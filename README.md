@@ -22,4 +22,6 @@ Use the search bar to filter entries, or pick a category from the dropdown. Clic
 
 ## License
 Feel free to use and modify for personal or educational purposes.
-You can download the Working App Version 1.0 from the "Download" button in the releases Tab.
+
+You can download the Working App Version 1.0 from the "Download" button in the releases Tab or the link below.
+https://github.com/vanshgupta06/Python-CheatSheet/releases/download/V1.0/PythonCheatSheet.exe
